@@ -69,11 +69,7 @@ this process!
     Project/Project19
     Project/Project20
     Project/Project21
-    Project/Project22
-    Project/Project23
-    Project/Project24
-    Project/Project25
-    Project/Project26
+
 
 **GET STARTED WITH CIRCUIT PROJECTS!**
 
@@ -100,6 +96,15 @@ avoid obstacles.
 **Please follow the installation guide for the car as shown in the
 picture below. After completing the installation, continue studying from
 Project 22 to Project 26.**
+
+.. toctree::
+    :maxdepth: 1
+
+    Project/Project22
+    Project/Project23
+    Project/Project24
+    Project/Project25
+    Project/Project26
 
 |image6|
 

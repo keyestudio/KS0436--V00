@@ -71,7 +71,7 @@ Check out the circuit diagram and hookup table below to see how everything is co
 
 **7.Code 1**
 
-```
+```c
 int AIN1=2;
 int AIN2=3;
 int STBY=4;
